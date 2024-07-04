@@ -1,0 +1,39 @@
+The dataset/mp3_1chan\13066399838.wav file has been transcribed as follows:
+('', '+', '喂你好。打扰您。我们是口腔医院的，请问是否有蛀牙缺牙或者牙齿不齐等口腔问题需要解决的呢？反正反正搞生意。啊是这样的，我们是口腔医院的在做口腔治疗的优惠活动，您是否有口腔问题需要治疗吗？那我要是有我有相熟的医生呢不需要，口腔问题是被我们老百姓经常忽略的问题，但长期任由发展，对我们身体的损害也非常严重，有。')
+
+The dataset/mp3_1chan\13048033163.wav file has been transcribed as follows:
+('唉呀我没有听清您能再说一遍吗？对。啊如果您牙齿有蛀牙断裂缺失等问题，可以来我院做个免费的检查，口腔问题是被我们老百姓经常忽略的问题，但是长期内有发。家长对我们我们是广州连锁口腔医院，广州有二十几家门店，您的牙齿有什么问题吗？我可以为您解答。你是人工还是？我说一句，你跟我说一句行不行的？啊我们不是录音，现在医院活动周年庆洁牙补牙。拔牙治疗这一块。', '+', '喂你好，打扰您，我们是口腔医院的，请问是否有蛀牙、缺牙或者牙齿不齐等口腔问题需要解决的？种植只需要口腔。')
+
+The dataset/mp3_1chan\13048033163.wav file has been transcribed as follows:
+('唉呀我没有听清您能再说一遍吗？对。啊如果您牙齿有蛀牙断裂缺失等问题，可以来我院做个免费的检查，口腔问题是对我们老百姓经常忽略的问题，但是长期内有发。家长对我们我们是广州连锁口腔医院，广州有二十几家门店，您的牙齿有什么问题吗？我可以为您解答。你是人工还是？我说一句，你跟我说一句行不行的？啊我们不是录音，现在医院活动周年庆洁牙补牙。拔牙治疗这一块。', '+', '喂你好，打扰您，我们是口腔医院的，请问是否有蛀牙、缺牙或者牙齿不齐等口腔问题需要解决的？种植只需要口腔。')
+
+The processed_audio\processed_13809770119_left.wav file has been transcribed as follows:
+呃搞定了。不用了啊没有没有没有？
+
+The processed_audio\processed_13903067460_left.wav file has been transcribed as follows:
+不知道啊不用了。
+
+The processed_audio\processed_13670120863_left.wav file has been transcribed as follows:
+嗯刚刚我噢没有没有我现在没空。哈那你要。
+
+The processed_audio\processed_17602044093_left.wav file has been transcribed as follows:
+嗯没有使用一样那一样的了解，所以就没有。这个
+
+The processed_audio\processed_13720175344_left.wav file has been transcribed as follows:
+可以可以啊噢先不要忙，啊谢谢。嗯
+
+The processed_audio\processed_13516020827_left.wav file has been transcribed as follows:
+啊没有没有不用了，那我现在已经不在广东我现在已经不在广东了，哈谢谢。啊啊我我不回来广州了，啊谢谢。啊
+
+The processed_audio\processed_13022062514_left.wav file has been transcribed as follows:
+喂你好，你是哪里的？什么名字？噢韩飞啊这些这些不需要。
+
+The processed_audio\processed_13922353877_left.wav file has been transcribed as follows:
+啊吃吃饭呃要不要？行行行特别大量可能都有，今年底啊每月16。
+
+The processed_audio\processed_13554785130_left.wav file has been transcribed as follows:
+有啊唉呀我怕我一去我就出不来了，我给你挂黑，啊这个我基本上我第一我要出不来了。啊啊
+
+The processed_audio\processed_13600091480_left.wav file has been transcribed as follows:
+喂嗯美容呃不是，我以前有口腔口腔医院的，我在中山医那边没有，我在中山医口腔那里挂了号，嗯冲牙已经冲了，我在中山医院那里。
+
